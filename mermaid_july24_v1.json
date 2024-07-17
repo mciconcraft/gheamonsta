@@ -1,0 +1,981 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "minecraft google play",
+      "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Minecraft Skin",
+      "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "minecraft play store",
+      "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "title": "Mermaid_001",
+      "image": "file:///android_asset/view/mermaid_001.png",
+      "skin": "https://lh3.googleusercontent.com/-C0XxogNjC64/YcK2sxV9y0I/AAAAAAAAwnk/DHntJd4e8MsGXrF3Oo9Ps8oWelNCWgiuACNcBGAsYHQ/mermaid_001.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "Mermaid_002",
+      "image": "file:///android_asset/view/mermaid_002.png",
+      "skin": "https://lh3.googleusercontent.com/-62SH07a0PSo/YcK2syAMVCI/AAAAAAAAwns/b1p1tywwVoMVDr2pENRVMHP_WKMhrlFowCNcBGAsYHQ/mermaid_002.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 3,
+      "name_category": "Nature",
+      "title": "Mermaid_003",
+      "image": "file:///android_asset/view/mermaid_003.png",
+      "skin": "https://lh3.googleusercontent.com/-FBvvwIyhnqY/YcK2swLV1vI/AAAAAAAAwnY/4kla7ci8ai0i4SjxoFvH3RdGZDPvlFMlQCNcBGAsYHQ/mermaid_003.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 4,
+      "name_category": "Nature",
+      "title": "Mermaid_004",
+      "image": "file:///android_asset/view/mermaid_004.png",
+      "skin": "https://lh3.googleusercontent.com/-oYbIfixR1wM/YcK2szj7RlI/AAAAAAAAwnc/a2HXnJ7g_bg1aNWJvKzop1yCTDwbDakxACNcBGAsYHQ/mermaid_004.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "title": "Mermaid_005",
+      "image": "file:///android_asset/view/mermaid_005.png",
+      "skin": "https://lh3.googleusercontent.com/-KzFlyFlpuTA/YcK2srs9OmI/AAAAAAAAwnQ/xgU3CKIokOowRqKF3VB5fWSTRumZ7f1fACNcBGAsYHQ/mermaid_005.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "title": "Mermaid_006",
+      "image": "file:///android_asset/view/mermaid_006.png",
+      "skin": "https://lh3.googleusercontent.com/-OCFIritJfzY/YcK2syZP3rI/AAAAAAAAwnU/IVcaOE7b1pgIT7pdea6_xJM0P7ORGVk-QCNcBGAsYHQ/mermaid_006.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 7,
+      "name_category": "Nature",
+      "title": "Mermaid_007",
+      "image": "file:///android_asset/view/mermaid_007.png",
+      "skin": "https://lh3.googleusercontent.com/-AQEtmosB2qw/YcK2tQudT6I/AAAAAAAAwng/rFV3L4XvkzcKKNQgxDDGx_zmGrXu8ZXbQCNcBGAsYHQ/mermaid_007.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "title": "Mermaid_008",
+      "image": "file:///android_asset/view/mermaid_008.png",
+      "skin": "https://lh3.googleusercontent.com/-yTPqWPTz8h0/YcK2tnlBb8I/AAAAAAAAwno/z0X6XS6Srg0V4-kcL-ZXoQ1vZjK_p_MUwCNcBGAsYHQ/mermaid_008.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "title": "Mermaid_009",
+      "image": "file:///android_asset/view/mermaid_009.png",
+      "skin": "https://lh3.googleusercontent.com/-60LVmQGOfyw/YcK2txtpwmI/AAAAAAAAwnw/2dbKyORwzTIYKiROXbb9MnAS7K457lXpwCNcBGAsYHQ/mermaid_009.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 10,
+      "name_category": "Nature",
+      "title": "Mermaid_010",
+      "image": "file:///android_asset/view/mermaid_010.png",
+      "skin": "https://lh3.googleusercontent.com/-mtFUnBjZnk8/YcK2uPlH0fI/AAAAAAAAwn0/PvJ7hCWuWXw5gHdTO_tlBCacpIVodJC9wCNcBGAsYHQ/mermaid_010.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+    },
+    {
+      "id": 11,
+      "name_category": "Nature",
+      "title": "Mermaid_011",
+      "image": "file:///android_asset/view/mermaid_011.png",
+      "skin": "https://lh3.googleusercontent.com/-udnUdIue2Xo/YcK2uIwNekI/AAAAAAAAwn4/i4Mu8ydxpMkbe9P6bZTuIv2AIRgwgNpVgCNcBGAsYHQ/mermaid_011.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 12,
+      "name_category": "Nature",
+      "title": "Mermaid_012",
+      "image": "file:///android_asset/view/mermaid_012.png",
+      "skin": "https://lh3.googleusercontent.com/-wUuVtMz5kDM/YcK2uaACVAI/AAAAAAAAwn8/MPJzHY7Oh9oWvp_89H2dIbZ151KOdMlAQCNcBGAsYHQ/mermaid_012.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 13,
+      "name_category": "Nature",
+      "title": "Mermaid_013",
+      "image": "file:///android_asset/view/mermaid_013.png",
+      "skin": "https://lh3.googleusercontent.com/-tRi76duhWMU/YcK2uZFhKNI/AAAAAAAAwoA/gPRS3_As_y8GLnz5T1JVGNCAnmv7b55SgCNcBGAsYHQ/mermaid_013.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 14,
+      "name_category": "Nature",
+      "title": "Mermaid_014",
+      "image": "file:///android_asset/view/mermaid_014.png",
+      "skin": "https://lh3.googleusercontent.com/-xPu-IFEyYzs/YcK2uhf0YhI/AAAAAAAAwoE/igQUFLjoNz0stZUzRUknH9qG7N_tB9yHgCNcBGAsYHQ/mermaid_014.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 15,
+      "name_category": "Nature",
+      "title": "Mermaid_015",
+      "image": "file:///android_asset/view/mermaid_015.png",
+      "skin": "https://lh3.googleusercontent.com/-qSfLQwaDv84/YcK2unccOZI/AAAAAAAAwoI/IuQ_Eg6KNv8ECxisAa364xaV9LiEOoJ4QCNcBGAsYHQ/mermaid_015.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 16,
+      "name_category": "Nature",
+      "title": "Mermaid_016",
+      "image": "file:///android_asset/view/mermaid_016.png",
+      "skin": "https://lh3.googleusercontent.com/-rwYdv_fY2_g/YcK2u55lJJI/AAAAAAAAwoM/ibUMhYxx2-I3ekz6RA7gQSLVGSvocuQAwCNcBGAsYHQ/mermaid_016.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 17,
+      "name_category": "Nature",
+      "title": "Mermaid_017",
+      "image": "file:///android_asset/view/mermaid_017.png",
+      "skin": "https://lh3.googleusercontent.com/-58lfyBV-44M/YcK2u8zaiAI/AAAAAAAAwoQ/_t7yA4oVh30srK0kSgwOyE5SAUPewvongCNcBGAsYHQ/mermaid_017.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 18,
+      "name_category": "Nature",
+      "title": "Mermaid_018",
+      "image": "file:///android_asset/view/mermaid_018.png",
+      "skin": "https://lh3.googleusercontent.com/-QPIPfzSenAw/YcK2vM3FvwI/AAAAAAAAwoY/45druHFmuCEwSOJ_vPqsJIQd2kOyndlKACNcBGAsYHQ/mermaid_018.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 19,
+      "name_category": "Nature",
+      "title": "Mermaid_019",
+      "image": "file:///android_asset/view/mermaid_019.png",
+      "skin": "https://lh3.googleusercontent.com/-09gaw6rmu6Q/YcK2vKdRhII/AAAAAAAAwoU/oEd09wnzd14yL8yI4VjTC2sB0rvn2LaDwCNcBGAsYHQ/mermaid_019.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 20,
+      "name_category": "Nature",
+      "title": "Mermaid_020",
+      "image": "file:///android_asset/view/mermaid_020.png",
+      "skin": "https://lh3.googleusercontent.com/-Xw1vX_8_okU/YcK2vQJmfQI/AAAAAAAAwoc/-owiekezvnschayC87wA_anuJTMYk7H4QCNcBGAsYHQ/mermaid_020.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+    },
+    {
+      "id": 21,
+      "name_category": "Nature",
+      "title": "Mermaid_021",
+      "image": "file:///android_asset/view/mermaid_021.png",
+      "skin": "https://lh3.googleusercontent.com/-tH2fFfCF7UI/YcK2vQ3shwI/AAAAAAAAwog/YZ6HoMiddjQ-Zunq1pCw5ts3yVbmpbCeACNcBGAsYHQ/mermaid_021.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 22,
+      "name_category": "Nature",
+      "title": "Mermaid_022",
+      "image": "file:///android_asset/view/mermaid_022.png",
+      "skin": "https://lh3.googleusercontent.com/-Hz2ImIyS-eI/YcK2vseSXuI/AAAAAAAAwoo/WpRc_nPiNzszWggvlp-pwd0u-t502OPWQCNcBGAsYHQ/mermaid_022.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 23,
+      "name_category": "Nature",
+      "title": "Mermaid_023",
+      "image": "file:///android_asset/view/mermaid_023.png",
+      "skin": "https://lh3.googleusercontent.com/-9GxjjcTAkks/YcK2vmJ1MnI/AAAAAAAAwok/KhuReqV-DhosY-Vp6l8RcmwJgFI702OmQCNcBGAsYHQ/mermaid_023.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 24,
+      "name_category": "Nature",
+      "title": "Mermaid_024",
+      "image": "file:///android_asset/view/mermaid_024.png",
+      "skin": "https://lh3.googleusercontent.com/-wG0QEM_IF8Y/YcK2v-6gqwI/AAAAAAAAwos/Z8f0mOJtmRU5k4hT5_YWXfTLyuz8ICYUQCNcBGAsYHQ/mermaid_024.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 25,
+      "name_category": "Nature",
+      "title": "Mermaid_025",
+      "image": "file:///android_asset/view/mermaid_025.png",
+      "skin": "https://lh3.googleusercontent.com/-ORQ2kFAU-38/YcK2vzZgldI/AAAAAAAAwow/jcydyZUiRKI8g7yvgDdoDak6OhmGfsiuQCNcBGAsYHQ/mermaid_025.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 26,
+      "name_category": "Nature",
+      "title": "Mermaid_026",
+      "image": "file:///android_asset/view/mermaid_026.png",
+      "skin": "https://lh3.googleusercontent.com/-GUF9eQoaKlk/YcK2v6GdGNI/AAAAAAAAwo0/kpJZaQLhblQSu27NUyf36ctR87vPnsA4ACNcBGAsYHQ/mermaid_026.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 27,
+      "name_category": "Nature",
+      "title": "Mermaid_027",
+      "image": "file:///android_asset/view/mermaid_027.png",
+      "skin": "https://lh3.googleusercontent.com/-amryRKgrLu8/YcK2wLw__FI/AAAAAAAAwo4/4SGMGJm_HIoGfTjx_BlroddXgvaqkTEBQCNcBGAsYHQ/mermaid_027.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 28,
+      "name_category": "Nature",
+      "title": "Mermaid_028",
+      "image": "file:///android_asset/view/mermaid_028.png",
+      "skin": "https://lh3.googleusercontent.com/-wSiK1R0x0KY/YcK2wJsa1RI/AAAAAAAAwo8/N1Oyzz_c2DQZCKwlCwgyvygAuVgJpJjFwCNcBGAsYHQ/mermaid_028.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 29,
+      "name_category": "Nature",
+      "title": "Mermaid_029",
+      "image": "file:///android_asset/view/mermaid_029.png",
+      "skin": "https://lh3.googleusercontent.com/-XSm2Z-mhhhQ/YcK2wCOfnpI/AAAAAAAAwpA/Q6Ppl4883EsETD7VT6ltr6bzFN4C4KJRACNcBGAsYHQ/mermaid_029.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 30,
+      "name_category": "Nature",
+      "title": "Mermaid_030",
+      "image": "file:///android_asset/view/mermaid_030.png",
+      "skin": "https://lh3.googleusercontent.com/-Ghyu4Fz3uSA/YcK2xaJINjI/AAAAAAAAwpk/lsNucXTe4SwrR_kD7v37SGd2oiL4f4jaQCNcBGAsYHQ/mermaid_030.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+    },
+    {
+      "id": 31,
+      "name_category": "Nature",
+      "title": "Mermaid_031",
+      "image": "file:///android_asset/view/mermaid_031.png",
+      "skin": "https://lh3.googleusercontent.com/-yRQiHttn4pA/YcK2wePWiaI/AAAAAAAAwpE/BrwdUnT6ols3xKSKDVqZg9L4gGSwrHdKQCNcBGAsYHQ/mermaid_031.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 32,
+      "name_category": "Nature",
+      "title": "Mermaid_032",
+      "image": "file:///android_asset/view/mermaid_032.png",
+      "skin": "https://lh3.googleusercontent.com/-RQmdlJxra3I/YcK2wvt3iBI/AAAAAAAAwpI/Zy10IZgSrzMBI4EyE-FhPZ9Jz9mqlyjTACNcBGAsYHQ/mermaid_032.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 33,
+      "name_category": "Nature",
+      "title": "Mermaid_033",
+      "image": "file:///android_asset/view/mermaid_033.png",
+      "skin": "https://lh3.googleusercontent.com/-8i1Pk2YCosQ/YcK2wo7Q6KI/AAAAAAAAwpM/3tdDL3GrrDcx14imRn2FmF4i8GOx4NcUACNcBGAsYHQ/mermaid_033.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 34,
+      "name_category": "Nature",
+      "title": "Mermaid_034",
+      "image": "file:///android_asset/view/mermaid_034.png",
+      "skin": "https://lh3.googleusercontent.com/-PwgGrF1gnWM/YcK2wsKF6II/AAAAAAAAwpQ/FY2KOYO-_Z4W2aVNhGCX-RS3oQcs_p1sQCNcBGAsYHQ/mermaid_034.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 35,
+      "name_category": "Nature",
+      "title": "Mermaid_035",
+      "image": "file:///android_asset/view/mermaid_035.png",
+      "skin": "https://lh3.googleusercontent.com/-2QbQbPW39_E/YcK2wx9CgwI/AAAAAAAAwpU/qldUzKYuLw0Vd1XyhqoWKZMRrVaEpD2UQCNcBGAsYHQ/mermaid_035.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 36,
+      "name_category": "Nature",
+      "title": "Mermaid_036",
+      "image": "file:///android_asset/view/mermaid_036.png",
+      "skin": "https://lh3.googleusercontent.com/-wcuoE7N76ok/YcK2xCySBkI/AAAAAAAAwpY/QNqdY4i1-ckGGd-J7CcXkDfcsQ9pDKd6wCNcBGAsYHQ/mermaid_036.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 37,
+      "name_category": "Nature",
+      "title": "Mermaid_037",
+      "image": "file:///android_asset/view/mermaid_037.png",
+      "skin": "https://lh3.googleusercontent.com/-yJ7_Zc6oXZk/YcK2xf_joDI/AAAAAAAAwpc/MpOKQg97gxIyq7WM7CRJ3U9SCdiYU8sqACNcBGAsYHQ/mermaid_037.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 38,
+      "name_category": "Nature",
+      "title": "Mermaid_038",
+      "image": "file:///android_asset/view/mermaid_038.png",
+      "skin": "https://lh3.googleusercontent.com/-J4Oa6gG1u1o/YcK2xbb-HHI/AAAAAAAAwpg/n7V3UHeg0oEqCJ_BpKuXLdTc51F1ebMHQCNcBGAsYHQ/mermaid_038.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 39,
+      "name_category": "Nature",
+      "title": "Mermaid_039",
+      "image": "file:///android_asset/view/mermaid_039.png",
+      "skin": "https://lh3.googleusercontent.com/-MgtpzLQIJ9g/YcK2xetFlyI/AAAAAAAAwpo/Qn-prn9qwngapxFhUppnRmgQa1NhNTzHQCNcBGAsYHQ/mermaid_039.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 40,
+      "name_category": "Nature",
+      "title": "Mermaid_040",
+      "image": "file:///android_asset/view/mermaid_040.png",
+      "skin": "https://lh3.googleusercontent.com/-q1B7IfNlwhw/YcK2xaxcZDI/AAAAAAAAwps/53E-47rwyT8SrzZDWeYU6A8YV3mdPI6zgCNcBGAsYHQ/mermaid_040.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+    },
+    {
+      "id": 41,
+      "name_category": "Nature",
+      "title": "Mermaid_041",
+      "image": "file:///android_asset/view/mermaid_041.png",
+      "skin": "https://lh3.googleusercontent.com/-0KIwYBQ5Z5w/YcK2x3cTweI/AAAAAAAAwp0/Ni-0BGNFZhYEJYF1rNTiKfI7AxEENHb1gCNcBGAsYHQ/mermaid_041.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 42,
+      "name_category": "Nature",
+      "title": "Mermaid_042",
+      "image": "file:///android_asset/view/mermaid_042.png",
+      "skin": "https://lh3.googleusercontent.com/-Uifgfoc2Upg/YcK2xzh02MI/AAAAAAAAwpw/Bx20qGLp-H4SubRHUxKxJAQq-bIgmSQiQCNcBGAsYHQ/mermaid_042.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 43,
+      "name_category": "Nature",
+      "title": "Mermaid_043",
+      "image": "file:///android_asset/view/mermaid_043.png",
+      "skin": "https://lh3.googleusercontent.com/-wqOi2VJQGhY/YcK2xx6Q2NI/AAAAAAAAwp4/ULAcWuVBzZ0JWloEhHZx4-qdIpeolm9_gCNcBGAsYHQ/mermaid_043.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 44,
+      "name_category": "Nature",
+      "title": "Mermaid_044",
+      "image": "file:///android_asset/view/mermaid_044.png",
+      "skin": "https://lh3.googleusercontent.com/-CrdQ_j_vmgo/YcK2yG1jx8I/AAAAAAAAwp8/5qsdZOLutRwrFExj5pg2zRhlh2el9pL4wCNcBGAsYHQ/mermaid_044.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 45,
+      "name_category": "Nature",
+      "title": "Mermaid_045",
+      "image": "file:///android_asset/view/mermaid_045.png",
+      "skin": "https://lh3.googleusercontent.com/-cDCnyupUA9Q/YcK2yufz4DI/AAAAAAAAwqA/WLBZoLVqTvIkqYjVNMyr38U2n-fYih-mgCNcBGAsYHQ/mermaid_045.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 46,
+      "name_category": "Nature",
+      "title": "Mermaid_046",
+      "image": "file:///android_asset/view/mermaid_046.png",
+      "skin": "https://lh3.googleusercontent.com/--PCDy_l8DNg/YcK2yyv17GI/AAAAAAAAwqE/28CT7n5fCck_aSa3d87Z9gjlDDHKFgEFgCNcBGAsYHQ/mermaid_046.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 47,
+      "name_category": "Nature",
+      "title": "Mermaid_047",
+      "image": "file:///android_asset/view/mermaid_047.png",
+      "skin": "https://lh3.googleusercontent.com/-Vf_9OwTeF_I/YcK2zYLmztI/AAAAAAAAwqI/XBCArc_OntEDfemqNPxFF97CTWofhVG5wCNcBGAsYHQ/mermaid_047.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 48,
+      "name_category": "Nature",
+      "title": "Mermaid_048",
+      "image": "file:///android_asset/view/mermaid_048.png",
+      "skin": "https://lh3.googleusercontent.com/-zz7r55zUVwg/YcK2zulgLYI/AAAAAAAAwqM/DBbrp31lBJg-NuPqyNSoSpmkbm9-Z0XMwCNcBGAsYHQ/mermaid_048.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 49,
+      "name_category": "Nature",
+      "title": "Mermaid_049",
+      "image": "file:///android_asset/view/mermaid_049.png",
+      "skin": "https://lh3.googleusercontent.com/-vDUNYtiKe-Q/YcK20K1_PsI/AAAAAAAAwqQ/8l8y_aFRFoUEik_FFXRBnOysm7L12a2ugCNcBGAsYHQ/mermaid_049.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    },
+    {
+      "id": 50,
+      "name_category": "Nature",
+      "title": "Mermaid_050",
+      "image": "file:///android_asset/view/mermaid_050.png",
+      "skin": "https://lh3.googleusercontent.com/-GDahWxlMepc/YcK20w6R69I/AAAAAAAAwqY/4hzqKnXRVAYdgjokmleq7WEdCzI733GbACNcBGAsYHQ/mermaid_050.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 51,
+      "name_category": "Nature",
+      "title": "Mermaid_051",
+      "image": "file:///android_asset/view/mermaid_051.png",
+      "skin": "https://lh3.googleusercontent.com/-BOOkzDW1Lyk/YcK21K4sTyI/AAAAAAAAwqc/li3p_lXTyXIUkB7T2oTp2u9W2MnfGj7QwCNcBGAsYHQ/mermaid_051.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 52,
+      "name_category": "Nature",
+      "title": "Mermaid_052",
+      "image": "file:///android_asset/view/mermaid_052.png",
+      "skin": "https://lh3.googleusercontent.com/-GRlpOOrKjHY/YcK21igoqUI/AAAAAAAAwqk/wJFu8VnfTtAJiyUowlFo-MRBH9Dg01XYwCNcBGAsYHQ/mermaid_052.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 53,
+      "name_category": "Nature",
+      "title": "Mermaid_053",
+      "image": "file:///android_asset/view/mermaid_053.png",
+      "skin": "https://lh3.googleusercontent.com/--YNRGyPBa84/YcK21wspPCI/AAAAAAAAwqU/PkMRvs9KdbQ7VMnxQzNUjkAP6ao5mV60wCNcBGAsYHQ/mermaid_053.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 54,
+      "name_category": "Nature",
+      "title": "Mermaid_054",
+      "image": "file:///android_asset/view/mermaid_054.png",
+      "skin": "https://lh3.googleusercontent.com/-smd2dX4EuTU/YcK22YDHwMI/AAAAAAAAwqg/0-U5PX8jVEsgl5exT4-j8YncGe1krEwnQCNcBGAsYHQ/mermaid_054.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 55,
+      "name_category": "Nature",
+      "title": "Mermaid_055",
+      "image": "file:///android_asset/view/mermaid_055.png",
+      "skin": "https://lh3.googleusercontent.com/-HOSWOYDxIgA/YcK22v1yHrI/AAAAAAAAwqo/Vn1nAeGBecMkuEIIuurc9rxYF71z0pk8wCNcBGAsYHQ/mermaid_055.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 56,
+      "name_category": "Nature",
+      "title": "Mermaid_056",
+      "image": "file:///android_asset/view/mermaid_056.png",
+      "skin": "https://lh3.googleusercontent.com/-4devyRh7DvY/YcK22ktNidI/AAAAAAAAwqs/NNdRTcx1ZrwfBMzJbi-YVdF1H8_NSLWSgCNcBGAsYHQ/mermaid_056.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 57,
+      "name_category": "Nature",
+      "title": "Mermaid_057",
+      "image": "file:///android_asset/view/mermaid_057.png",
+      "skin": "https://lh3.googleusercontent.com/-VfpntSYCzAk/YcK221TdbjI/AAAAAAAAwqw/tZWRG_Hufas8_3BeN8Fxuiet0V_ni6mygCNcBGAsYHQ/mermaid_057.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 58,
+      "name_category": "Nature",
+      "title": "Mermaid_058",
+      "image": "file:///android_asset/view/mermaid_058.png",
+      "skin": "https://lh3.googleusercontent.com/-RJEszaQ00Ws/YcK23PMNFtI/AAAAAAAAwq0/1iSz1Q0q91YPYwgPzwpZwH5sQn-p8l3GwCNcBGAsYHQ/mermaid_058.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-6.mcpack"
+    },
+    {
+      "id": 59,
+      "name_category": "Nature",
+      "title": "Mermaid_059",
+      "image": "file:///android_asset/view/mermaid_059.png",
+      "skin": "https://lh3.googleusercontent.com/-iAFUPacZ9yI/YcK23YjBNPI/AAAAAAAAwq4/5Au2aWTPVoMJJhGDV8pqEBfqzMM2SBcrgCNcBGAsYHQ/mermaid_059.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 60,
+      "name_category": "Nature",
+      "title": "Mermaid_060",
+      "image": "file:///android_asset/view/mermaid_060.png",
+      "skin": "https://lh3.googleusercontent.com/-PwBXStRTPZs/YcK23dOK5yI/AAAAAAAAwrA/a4vfHrQsKm4cy_cd2fxFgKw43hk9FGoiwCNcBGAsYHQ/mermaid_060.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 61,
+      "name_category": "Nature",
+      "title": "Mermaid_061",
+      "image": "file:///android_asset/view/mermaid_061.png",
+      "skin": "https://lh3.googleusercontent.com/-jidk7V6wJjc/YcK23y5g3oI/AAAAAAAAwrI/0t2C2OK6yeoLZIv7Hh7lwl5nm1DW-c73QCNcBGAsYHQ/mermaid_061.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 62,
+      "name_category": "Nature",
+      "title": "Mermaid_062",
+      "image": "file:///android_asset/view/mermaid_062.png",
+      "skin": "https://lh3.googleusercontent.com/-Sgj8nML6gXE/YcK23w2okkI/AAAAAAAAwq8/G6c5jJHmyvkEqT2lhDUFq6pVB8fND-YQACNcBGAsYHQ/mermaid_062.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 63,
+      "name_category": "Nature",
+      "title": "Mermaid_063",
+      "image": "file:///android_asset/view/mermaid_063.png",
+      "skin": "https://lh3.googleusercontent.com/-FIY39nAkiVg/YcK24TBJObI/AAAAAAAAwrE/jYgHKu7m2EMhhDRMlDeCT25RfaAcr0C7QCNcBGAsYHQ/mermaid_063.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 64,
+      "name_category": "Nature",
+      "title": "Mermaid_064",
+      "image": "file:///android_asset/view/mermaid_064.png",
+      "skin": "https://lh3.googleusercontent.com/-ds5_9gqxEIo/YcK245sYA9I/AAAAAAAAwrM/cQtX72oGzk4tzrseQZbx8cGeMsYnWh0mQCNcBGAsYHQ/mermaid_064.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 65,
+      "name_category": "Nature",
+      "title": "Mermaid_065",
+      "image": "file:///android_asset/view/mermaid_065.png",
+      "skin": "https://lh3.googleusercontent.com/-qGYP7JoqZi8/YcK24wynKhI/AAAAAAAAwrU/2O12dH6Rsz45QpeamJQ5TUEoA4kcBRBwwCNcBGAsYHQ/mermaid_065.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 66,
+      "name_category": "Nature",
+      "title": "Mermaid_066",
+      "image": "file:///android_asset/view/mermaid_066.png",
+      "skin": "https://lh3.googleusercontent.com/-osrhaXEbwRo/YcK24_OASII/AAAAAAAAwrQ/zuKemqJ_4uYvpxtvnSOfyC7EOLo2NGD1wCNcBGAsYHQ/mermaid_066.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 67,
+      "name_category": "Nature",
+      "title": "Mermaid_067",
+      "image": "file:///android_asset/view/mermaid_067.png",
+      "skin": "https://lh3.googleusercontent.com/-gCTLkBwt8V8/YcK25CubAJI/AAAAAAAAwrY/23V7s1EUwNUrWAWPWOSzzVugumYBAqckQCNcBGAsYHQ/mermaid_067.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 68,
+      "name_category": "Nature",
+      "title": "Mermaid_068",
+      "image": "file:///android_asset/view/mermaid_068.png",
+      "skin": "https://lh3.googleusercontent.com/-HuMmAL5UWRw/YcK25a1NsdI/AAAAAAAAwrg/cCPWtkbe1rYR_CgwG6XYSJ7tQkL_llT0wCNcBGAsYHQ/mermaid_068.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-7.mcpack"
+    },
+    {
+      "id": 69,
+      "name_category": "Nature",
+      "title": "Mermaid_069",
+      "image": "file:///android_asset/view/mermaid_069.png",
+      "skin": "https://lh3.googleusercontent.com/-njXMQKNAXaA/YcK25W4_kTI/AAAAAAAAwrc/g0B1WLclkGAHIf2ka23cXzgh3p8MS7PSwCNcBGAsYHQ/mermaid_069.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 70,
+      "name_category": "Nature",
+      "title": "Mermaid_070",
+      "image": "file:///android_asset/view/mermaid_070.png",
+      "skin": "https://lh3.googleusercontent.com/-fLaqKGX9NyE/YcK25qHAM2I/AAAAAAAAwrk/FSbdjMmgXBIh7FyOVwH8rfiPnb-YCwA2ACNcBGAsYHQ/mermaid_070.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 71,
+      "name_category": "Nature",
+      "title": "Mermaid_071",
+      "image": "file:///android_asset/view/mermaid_071.png",
+      "skin": "https://lh3.googleusercontent.com/-Fif8TKbvq40/YcK25mCTUKI/AAAAAAAAwro/sNCYBYkSQwY_2d1gKo88wLlhv0K-eQIAQCNcBGAsYHQ/mermaid_071.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 72,
+      "name_category": "Nature",
+      "title": "Mermaid_072",
+      "image": "file:///android_asset/view/mermaid_072.png",
+      "skin": "https://lh3.googleusercontent.com/-vdETINt_GKo/YcK25q8wQvI/AAAAAAAAwrs/8mF4dLsvg4kXea_eoWynzHYPoJ0k_iHoQCNcBGAsYHQ/mermaid_072.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 73,
+      "name_category": "Nature",
+      "title": "Mermaid_073",
+      "image": "file:///android_asset/view/mermaid_073.png",
+      "skin": "https://lh3.googleusercontent.com/-hdqVtFr1yD4/YcK250ms9EI/AAAAAAAAwrw/bm1s30cBg0YFR_6y3fATV_hiKiEC5A18gCNcBGAsYHQ/mermaid_073.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 74,
+      "name_category": "Nature",
+      "title": "Mermaid_074",
+      "image": "file:///android_asset/view/mermaid_074.png",
+      "skin": "https://lh3.googleusercontent.com/-cmL6H7jW0x4/YcK26MOu4YI/AAAAAAAAwr0/3z41vcG3pa0U9vKVulu4kFF3bL_TeYShQCNcBGAsYHQ/mermaid_074.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 75,
+      "name_category": "Nature",
+      "title": "Mermaid_075",
+      "image": "file:///android_asset/view/mermaid_075.png",
+      "skin": "https://lh3.googleusercontent.com/-xAQ9zRhvPps/YcK26GYJ-YI/AAAAAAAAwr8/KFyYmRg__0YS_c_oXFI4SB2xJv23jXJ_ACNcBGAsYHQ/mermaid_075.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 76,
+      "name_category": "Nature",
+      "title": "Mermaid_076",
+      "image": "file:///android_asset/view/mermaid_076.png",
+      "skin": "https://lh3.googleusercontent.com/-BySk4f5ArDo/YcK26Dew0YI/AAAAAAAAwsE/aWod3GfVfHkeXa31eio0nJILX4WlzJ13gCNcBGAsYHQ/mermaid_076.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 77,
+      "name_category": "Nature",
+      "title": "Mermaid_077",
+      "image": "file:///android_asset/view/mermaid_077.png",
+      "skin": "https://lh3.googleusercontent.com/-2yYf60u3T-k/YcK26XgMLII/AAAAAAAAwr4/_JQ4UAwcl_Y4i9-g14Nyd5fLL5L_9EDogCNcBGAsYHQ/mermaid_077.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-8.mcpack"
+    },
+    {
+      "id": 78,
+      "name_category": "Nature",
+      "title": "Mermaid_078",
+      "image": "file:///android_asset/view/mermaid_078.png",
+      "skin": "https://lh3.googleusercontent.com/-JR5PCVg_N70/YcK2629R9uI/AAAAAAAAwsA/hOjplj7NoxoZd35-RUlFJCNGza-s7yyVACNcBGAsYHQ/mermaid_078.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-9.mcpack"
+    },
+    {
+      "id": 79,
+      "name_category": "Nature",
+      "title": "Mermaid_079",
+      "image": "file:///android_asset/view/mermaid_079.png",
+      "skin": "https://lh3.googleusercontent.com/-AqWkW4U_ZX0/YcK27RxJmeI/AAAAAAAAwsI/g2k9R06dAucrWiK8HPZ8TmahjCbdMjK3QCNcBGAsYHQ/mermaid_079.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-10.mcpack"
+    },
+    {
+      "id": 80,
+      "name_category": "Nature",
+      "title": "Mermaid_080",
+      "image": "file:///android_asset/view/mermaid_080.png",
+      "skin": "https://lh3.googleusercontent.com/-TwpjHs8QRM4/YcK27qY1vKI/AAAAAAAAwsQ/_M2l7IMcTLAF1EH5oZRxJ-_J_53AcKrvQCNcBGAsYHQ/mermaid_080.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-11.mcpack"
+    },
+    {
+      "id": 81,
+      "name_category": "Nature",
+      "title": "Mermaid_081",
+      "image": "file:///android_asset/view/mermaid_081.png",
+      "skin": "https://lh3.googleusercontent.com/-z9kiKicGEik/YcK27vhr7nI/AAAAAAAAwsM/qMQ4u2c09DUzsgoUHkwq4LjFgxoaHmiswCNcBGAsYHQ/mermaid_081.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-12.mcpack"
+    },
+    {
+      "id": 82,
+      "name_category": "Nature",
+      "title": "Mermaid_082",
+      "image": "file:///android_asset/view/mermaid_082.png",
+      "skin": "https://lh3.googleusercontent.com/-FwGaijoMpgA/YcK27_0VYpI/AAAAAAAAwsU/DLqk9SF0ra0GdrTe-hoLkxJUexn85KRcQCNcBGAsYHQ/mermaid_082.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-13.mcpack"
+    },
+    {
+      "id": 83,
+      "name_category": "Nature",
+      "title": "Mermaid_083",
+      "image": "file:///android_asset/view/mermaid_083.png",
+      "skin": "https://lh3.googleusercontent.com/-lr47an27DP0/YcK27zYXjlI/AAAAAAAAwsY/8jxTFWGQGVwjAB9clve9HgLE6wRNLoC_gCNcBGAsYHQ/mermaid_083.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-14.mcpack"
+    },
+    {
+      "id": 84,
+      "name_category": "Nature",
+      "title": "Mermaid_084",
+      "image": "file:///android_asset/view/mermaid_084.png",
+      "skin": "https://lh3.googleusercontent.com/-tuFLFbktm70/YcK28EuMa1I/AAAAAAAAwsc/bVSq9U0ZoGoCawlcsX865x6lAAjkcon6gCNcBGAsYHQ/mermaid_084.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-15.mcpack"
+    },
+    {
+      "id": 85,
+      "name_category": "Nature",
+      "title": "Mermaid_085",
+      "image": "file:///android_asset/view/mermaid_085.png",
+      "skin": "https://lh3.googleusercontent.com/-pD7yC8sF4w8/YcK28AHcAUI/AAAAAAAAwsg/79dDsmQsR6Y3l39m-ZzJ8vsn5WlEjmCnwCNcBGAsYHQ/mermaid_085.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-16.mcpack"
+    },
+    {
+      "id": 86,
+      "name_category": "Nature",
+      "title": "Mermaid_086",
+      "image": "file:///android_asset/view/mermaid_086.png",
+      "skin": "https://lh3.googleusercontent.com/-rVAjCSyAgqA/YcK28SwdhbI/AAAAAAAAwsk/2rHGitiVrnQLb5TdhgncMQ7C98GrrIdYgCNcBGAsYHQ/mermaid_086.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-17.mcpack"
+    },
+    {
+      "id": 87,
+      "name_category": "Nature",
+      "title": "Mermaid_087",
+      "image": "file:///android_asset/view/mermaid_087.png",
+      "skin": "https://lh3.googleusercontent.com/-QO0UsJTP8Ik/YcK28WCpQTI/AAAAAAAAwso/RzCGzLmuyPw-35ASDzLfbsDI1NlAb1tegCNcBGAsYHQ/mermaid_087.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-18.mcpack"
+    },
+    {
+      "id": 88,
+      "name_category": "Nature",
+      "title": "Mermaid_088",
+      "image": "file:///android_asset/view/mermaid_088.png",
+      "skin": "https://lh3.googleusercontent.com/-tNaOyvdsBSU/YcK28aeafgI/AAAAAAAAwss/tfdA6X--kboNEA-bu8Q1Erqh39jBgwDggCNcBGAsYHQ/mermaid_088.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-19.mcpack"
+    },
+    {
+      "id": 89,
+      "name_category": "Nature",
+      "title": "Mermaid_089",
+      "image": "file:///android_asset/view/mermaid_089.png",
+      "skin": "https://lh3.googleusercontent.com/-M3dJutcbkvg/YcK28mzXksI/AAAAAAAAws0/UYwMOgNWLaMj05m4nDS94NrFVzxKNpg9QCNcBGAsYHQ/mermaid_089.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-20.mcpack"
+    },
+    {
+      "id": 90,
+      "name_category": "Nature",
+      "title": "Mermaid_090",
+      "image": "file:///android_asset/view/mermaid_090.png",
+      "skin": "https://lh3.googleusercontent.com/-zi87EcMxyvI/YcK28qP07XI/AAAAAAAAwsw/fkdXcGvif-43d_150bscwAkC6EV1uUi6gCNcBGAsYHQ/mermaid_090.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-21.mcpack"
+    },
+    {
+      "id": 91,
+      "name_category": "Nature",
+      "title": "Mermaid_091",
+      "image": "file:///android_asset/view/mermaid_091.png",
+      "skin": "https://lh3.googleusercontent.com/-_vwq0gPxexE/YcK28wIEZxI/AAAAAAAAws4/BH8xgEf5T5U89HV9YacyXPWFVHpztJNkACNcBGAsYHQ/mermaid_091.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-22.mcpack"
+    },
+    {
+      "id": 92,
+      "name_category": "Nature",
+      "title": "Mermaid_092",
+      "image": "file:///android_asset/view/mermaid_092.png",
+      "skin": "https://lh3.googleusercontent.com/-hnD0X08if5Y/YcK282LrDHI/AAAAAAAAws8/yB9urpnperA7D3sEi4FvtrHRtDQlUZ4SwCNcBGAsYHQ/mermaid_092.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-23.mcpack"
+    },
+    {
+      "id": 93,
+      "name_category": "Nature",
+      "title": "Mermaid_093",
+      "image": "file:///android_asset/view/mermaid_093.png",
+      "skin": "https://lh3.googleusercontent.com/-Y4enF7e1q7Y/YcK287bytoI/AAAAAAAAwtA/2NfX8QcWg8Ehnv5iIvHvG68ZQcRNh_srQCNcBGAsYHQ/mermaid_093.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-24.mcpack"
+    },
+    {
+      "id": 94,
+      "name_category": "Nature",
+      "title": "Mermaid_094",
+      "image": "file:///android_asset/view/mermaid_094.png",
+      "skin": "https://lh3.googleusercontent.com/-txn61X3jtWY/YcK29DXR48I/AAAAAAAAwtE/Axl7_tuJiE0kQK0Ab7zwKQHCeURxWlvAwCNcBGAsYHQ/mermaid_094.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-25.mcpack"
+    },
+    {
+      "id": 95,
+      "name_category": "Nature",
+      "title": "Mermaid_095",
+      "image": "file:///android_asset/view/mermaid_095.png",
+      "skin": "https://lh3.googleusercontent.com/-fnX9WtqVCLg/YcK29VfkSlI/AAAAAAAAwtI/xcj6grMKKAYzeyioOgBcpkRK-T6titLWACNcBGAsYHQ/mermaid_095.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-26.mcpack"
+    },
+    {
+      "id": 96,
+      "name_category": "Nature",
+      "title": "Mermaid_096",
+      "image": "file:///android_asset/view/mermaid_096.png",
+      "skin": "https://lh3.googleusercontent.com/-c6zQXiZWNNM/YcK29bDhx2I/AAAAAAAAwtM/UQL7IDuGWdwqYqgbzqyG9tf9OPT_kQdAwCNcBGAsYHQ/mermaid_096.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-27.mcpack"
+    },
+    {
+      "id": 97,
+      "name_category": "Nature",
+      "title": "Mermaid_097",
+      "image": "file:///android_asset/view/mermaid_097.png",
+      "skin": "https://lh3.googleusercontent.com/-nln2H67KlT4/YcK29WpYI_I/AAAAAAAAwtQ/L3jgR2E6HTgT2GFNL1e_I2CPVs7lFZRCwCNcBGAsYHQ/mermaid_097.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-28.mcpack"
+    },
+    {
+      "id": 98,
+      "name_category": "Nature",
+      "title": "Mermaid_098",
+      "image": "file:///android_asset/view/mermaid_098.png",
+      "skin": "https://lh3.googleusercontent.com/-pdOxCD2Bm6I/YcK29rX8A4I/AAAAAAAAwtU/N9Eh-qsUcoUXBByZ6uTkKsEAheEd-r_1gCNcBGAsYHQ/mermaid_098.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-29.mcpack"
+    },
+    {
+      "id": 99,
+      "name_category": "Nature",
+      "title": "Mermaid_099",
+      "image": "file:///android_asset/view/mermaid_099.png",
+      "skin": "https://lh3.googleusercontent.com/-2sFUp_pyJg4/YcK29kKBJnI/AAAAAAAAwtY/CCGAt7pVkZgVc7Hx4hqfCf1r6cipU4N_QCNcBGAsYHQ/mermaid_099.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-30.mcpack"
+    },
+    {
+      "id": 100,
+      "name_category": "Nature",
+      "title": "Mermaid_100",
+      "image": "file:///android_asset/view/mermaid_100.png",
+      "skin": "https://lh3.googleusercontent.com/-Oyx3glDc40o/YcK29gjPaDI/AAAAAAAAwtc/wrVMQDl2NtM19QkRXdRA16u7gU36IK5GACNcBGAsYHQ/mermaid_100.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-31.mcpack"
+    },
+    {
+      "id": 101,
+      "name_category": "Nature",
+      "title": "Mermaid_101",
+      "image": "file:///android_asset/view/mermaid_101.png",
+      "skin": "https://lh3.googleusercontent.com/-XVvrbMp4iS0/YcK295_l_OI/AAAAAAAAwtg/VtB3-Sc29cANaCYDD9JA4fqZKXyFi4OXQCNcBGAsYHQ/mermaid_101.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-32.mcpack"
+    },
+    {
+      "id": 102,
+      "name_category": "Nature",
+      "title": "Mermaid_102",
+      "image": "file:///android_asset/view/mermaid_102.png",
+      "skin": "https://lh3.googleusercontent.com/-ydGQmRY7-dE/YcK291cCYzI/AAAAAAAAwtk/P84QjZiYhDQ6vpfTNJa33PhNgyeA6v5dQCNcBGAsYHQ/mermaid_102.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-33.mcpack"
+    },
+    {
+      "id": 103,
+      "name_category": "Nature",
+      "title": "Mermaid_103",
+      "image": "file:///android_asset/view/mermaid_103.png",
+      "skin": "https://lh3.googleusercontent.com/--0Kp3BLL1m4/YcK2-G8xZeI/AAAAAAAAwto/0LzCBnWmZcU48jeuLgkqUr-eDXrr7fWMgCNcBGAsYHQ/mermaid_103.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-34.mcpack"
+    },
+    {
+      "id": 104,
+      "name_category": "Nature",
+      "title": "Mermaid_104",
+      "image": "file:///android_asset/view/mermaid_104.png",
+      "skin": "https://lh3.googleusercontent.com/-Vt5tgyQipOo/YcK2-LvzScI/AAAAAAAAwts/t2EeTukK1DwIbV57po1nEBHVUseV30loQCNcBGAsYHQ/mermaid_104.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-35.mcpack"
+    },
+    {
+      "id": 105,
+      "name_category": "Nature",
+      "title": "Mermaid_105",
+      "image": "file:///android_asset/view/mermaid_105.png",
+      "skin": "https://lh3.googleusercontent.com/-n12zsiK6SiI/YcK2-QwPpgI/AAAAAAAAwtw/W_91lo7sz_4umYWQQSyckqL52Sw859U-gCNcBGAsYHQ/mermaid_105.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-36.mcpack"
+    },
+    {
+      "id": 106,
+      "name_category": "Nature",
+      "title": "Mermaid_106",
+      "image": "file:///android_asset/view/mermaid_106.png",
+      "skin": "https://lh3.googleusercontent.com/-0ykn_NLfW6M/YcK2-bOGtEI/AAAAAAAAwt0/pYsUgf-G3zI19xZb12V6AgyfuuyUCnxrACNcBGAsYHQ/mermaid_106.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-37.mcpack"
+    },
+    {
+      "id": 107,
+      "name_category": "Nature",
+      "title": "Mermaid_107",
+      "image": "file:///android_asset/view/mermaid_107.png",
+      "skin": "https://lh3.googleusercontent.com/-9ehJArA0HhI/YcK2-6dHiNI/AAAAAAAAwt4/fzrq9KKHaxoJ5vsyTqgeMe6gbsnRuVkiwCNcBGAsYHQ/mermaid_107.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-38.mcpack"
+    },
+    {
+      "id": 108,
+      "name_category": "Nature",
+      "title": "Mermaid_108",
+      "image": "file:///android_asset/view/mermaid_108.png",
+      "skin": "https://lh3.googleusercontent.com/-9fs8u-ABgVs/YcK2-xJ_6uI/AAAAAAAAwt8/yxyF445uodgIDvIcz6CUUjLvCrn69MygACNcBGAsYHQ/mermaid_108.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-39.mcpack"
+    },
+    {
+      "id": 109,
+      "name_category": "Nature",
+      "title": "Mermaid_109",
+      "image": "file:///android_asset/view/mermaid_109.png",
+      "skin": "https://lh3.googleusercontent.com/-Y5PGfX6y8Ug/YcK2_IrRXdI/AAAAAAAAwuE/cJ0pjMec3_wcL7WV5Qw7RqbQV4pcQdkYwCNcBGAsYHQ/mermaid_109.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-40.mcpack"
+    },
+    {
+      "id": 110,
+      "name_category": "Nature",
+      "title": "Mermaid_110",
+      "image": "file:///android_asset/view/mermaid_110.png",
+      "skin": "https://lh3.googleusercontent.com/-i5AOQWC0TZQ/YcK2_KuOHzI/AAAAAAAAwuI/bqj91Yfe0uYal3oelyLFybCuDA9J_4jXACNcBGAsYHQ/mermaid_110.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-41.mcpack"
+    },
+    {
+      "id": 111,
+      "name_category": "Nature",
+      "title": "Mermaid_111",
+      "image": "file:///android_asset/view/mermaid_111.png",
+      "skin": "https://lh3.googleusercontent.com/-zo2ce4bS1oo/YcK2_dZz8II/AAAAAAAAwuM/aDHHGkFWOk0vnJtcegILPy063lM0KdTrgCNcBGAsYHQ/mermaid_111.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-42.mcpack"
+    },
+    {
+      "id": 112,
+      "name_category": "Nature",
+      "title": "Mermaid_112",
+      "image": "file:///android_asset/view/mermaid_112.png",
+      "skin": "https://lh3.googleusercontent.com/-WwKQkm1RevQ/YcK2_zGq4PI/AAAAAAAAwuA/ld6iH7NRVZQdMBgB697ysq5UjD36mQrxQCNcBGAsYHQ/mermaid_112.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-43.mcpack"
+    },
+    {
+      "id": 113,
+      "name_category": "Nature",
+      "title": "Mermaid_113",
+      "image": "file:///android_asset/view/mermaid_113.png",
+      "skin": "https://lh3.googleusercontent.com/-YlBu9bIM4ko/YcK3AafTUoI/AAAAAAAAwuQ/bKOuXncDAeovAyRA1sVmslxN71oufqkKgCNcBGAsYHQ/mermaid_113.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-44.mcpack"
+    },
+    {
+      "id": 114,
+      "name_category": "Nature",
+      "title": "Mermaid_114",
+      "image": "file:///android_asset/view/mermaid_114.png",
+      "skin": "https://lh3.googleusercontent.com/-Zuz_2XoLfVc/YcK3ApSeGSI/AAAAAAAAwuU/R822wj1xXX0nFY_3fFfPhV-6hycG48TigCNcBGAsYHQ/mermaid_114.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-45.mcpack"
+    },
+    {
+      "id": 115,
+      "name_category": "Nature",
+      "title": "Mermaid_115",
+      "image": "file:///android_asset/view/mermaid_115.png",
+      "skin": "https://lh3.googleusercontent.com/-U16RVF3f80A/YcK3AotHwRI/AAAAAAAAwuY/Gt9t3dzalTAMQ6dg1R8jFVtj3-tQwkO_wCNcBGAsYHQ/mermaid_115.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-46.mcpack"
+    },
+    {
+      "id": 116,
+      "name_category": "Nature",
+      "title": "Mermaid_116",
+      "image": "file:///android_asset/view/mermaid_116.png",
+      "skin": "https://lh3.googleusercontent.com/-fBCPFzdGP9E/YcK3A2Fz8iI/AAAAAAAAwuc/CUlHq2PHHloVlyiU5TlhwhIgUMkFfZR8ACNcBGAsYHQ/mermaid_116.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-47.mcpack"
+    },
+    {
+      "id": 117,
+      "name_category": "Nature",
+      "title": "Mermaid_117",
+      "image": "file:///android_asset/view/mermaid_117.png",
+      "skin": "https://lh3.googleusercontent.com/-YJ4RNmYXrso/YcK3Be3YkDI/AAAAAAAAwug/XXpQ55kDRkAFMDDT1b9ewwTzOiFQ6ZdcACNcBGAsYHQ/mermaid_117.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-48.mcpack"
+    },
+    {
+      "id": 118,
+      "name_category": "Nature",
+      "title": "Mermaid_118",
+      "image": "file:///android_asset/view/mermaid_118.png",
+      "skin": "https://lh3.googleusercontent.com/-HrTEB_hKV54/YcK3BRo1NVI/AAAAAAAAwuk/anSOwfwJiQM9zpTWKCF7tqrP2HTGpMnQwCNcBGAsYHQ/mermaid_118.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-49.mcpack"
+    },
+    {
+      "id": 119,
+      "name_category": "Nature",
+      "title": "Mermaid_119",
+      "image": "file:///android_asset/view/mermaid_119.png",
+      "skin": "https://lh3.googleusercontent.com/-kfAwHUlJeIQ/YcK3CO1L1JI/AAAAAAAAwuo/7oyd5favMRMw_gpxdjDoi8rC1xuqGm4SQCNcBGAsYHQ/mermaid_119.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-50.mcpack"
+    },
+    {
+      "id": 120,
+      "name_category": "Nature",
+      "title": "Mermaid_120",
+      "image": "file:///android_asset/view/mermaid_120.png",
+      "skin": "https://lh3.googleusercontent.com/-FCHw_gVTUsY/YcK3Ca282TI/AAAAAAAAwus/2JqU1njOgZMVAKov1COT4v3v9V4ly8BngCNcBGAsYHQ/mermaid_120.png",
+      "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-51.mcpack"
+    }
+  ]
+}
